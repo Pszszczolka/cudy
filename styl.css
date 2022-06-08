@@ -1,0 +1,117 @@
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:dotted;border-width:2px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:dotted;border-width:2px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xdvk{background-color:#cd9934;border-color:#cb0000;color:#000000;font-size:large;font-style:italic;font-weight:bold;
+  text-align:left;text-decoration:overline;vertical-align:top}
+.tg .tg-cumz{background-color:#cd9934;border-color:#cb0000;color:#000000;font-family:"Times New Roman", Times, serif !important;
+  font-size:large;font-style:italic;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+#tablea{
+    color: red;
+}
+#tablea:hover{
+    color: blue;
+}
+
+footer{
+	text-align:center;
+    background-color: #003049;
+    width: 100vw;
+    height: 2vh;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: white;
+}
+#gora{
+	background-color: blue;
+
+}
+
+html{
+	scroll-behavior: smooth;
+    margin: 20px;
+}
+#dowiedz{
+	font-size: 10px;
+}
+
+
+
+
+#navbar{
+	  overflow: hidden;
+  background-color: #333;
+}
+
+
+
+#img1{
+	width: 250px;
+	height: 200px;
+}
+
+
+#linkimg{
+	font-size: 30px;
+	text-decoration: none;
+
+}
+body{
+	background-color: #EAE2B7;
+	color: ;
+}
+
+header{
+    background-color: #003049;
+}
+a{
+    text-decoration: none;
+    color: #D62828;
+    font-family: Calibri;
+}
+#imgcudy{
+    
+  text-align: center;
+}
+#cudy{
+  color: black;
+}
+#cudy:hover{
+    color: #FCBF49;
+webkit-animation: glow 1s ease-in-out infinite alternate;
+ moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #F77F00, 0 0 40px #F77F00, 0 0 50px #F77F00, 0 0 60px #F77F00, 0 0 70px #F77F00;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #FCBF49, 0 0 40px #FCBF49, 0 0 50px #FCBF49, 0 0 60px #FCBF49, 0 0 70px #FCBF49, 0 0 80px #FCBF49;
+  }
+}
+
+#linkzew{
+    color: blue;
+    text-decoration: underline overline;
+}
+ul{
+    text-align: left;
+}
+#listdiv{
+    text-align: center;
+    display: inline-block;
+}
+#imgall{
+    float: left;
+    display: inline-block;
+    font-size: ;
+}
+#imgall{
+    display:inline-block;
+    float: middle;
+    padding: 10px;
+}
